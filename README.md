@@ -91,3 +91,10 @@ amazon-pricing-discount-analysis/
 └── requirements.txt
 ```
 
+## Notebook
+
+[View Complete Notebook](./BDM_Analysis.ipynb)
+
+## Detailed Report
+
+[View Detailed Report](./Amazon_Pricing_Discount_Analysis_Report.pdf)
